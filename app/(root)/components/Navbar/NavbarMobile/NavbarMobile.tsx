@@ -1,11 +1,11 @@
 "use client"
-
+import Link from 'next/link'
 import React, { useState } from 'react'
 import { Menu, X } from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 import { links } from '../Navbar.data'
-import Link from 'next/link'
+
 
 
 
