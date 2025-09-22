@@ -1,2 +1,3 @@
 export * from "./Navbar/Navbar"
 export * from "./HeroBlock"
+export * from "./HowItWorks"
