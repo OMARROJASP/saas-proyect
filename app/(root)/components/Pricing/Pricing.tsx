@@ -81,3 +81,5 @@ export  function Pricing() {
         </section>
     )
 }
+
+// nos quedamos en 1:43:37
